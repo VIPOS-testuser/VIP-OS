@@ -103,7 +103,7 @@ pie title "Resurs tavsiyalari"
 
 ## 📥 Yuklab olish
 
-[![Download from Mega](https://img.shields.io/badge/Download%20ISO-Mega-red?style=for-the-badge&logo=mega)](MEGA_LINK_BU_YERGA_QO‘YILADI)
+[![Download from Mega](https://img.shields.io/badge/Download%20ISO-Mega-red?style=for-the-badge&logo=mega)](https://mega.nz/file/fPBgDSob#Z62vNSUOeBT-H3d_j0WgEmdsD07-32IZh7YmQiRKy7o)
 
 ---
 
